@@ -1,2 +1,7 @@
 # DeepLearnEquations
-DeepLearnEquations offers tutorials on using AI and deep learning to solve mathematical equations, including differential equations. Explore practical examples and guides to apply neural networks to complex problems.
+Welcome to DeepLearnEquations – a collection of tutorials on using artificial intelligence and neural networks to learn and solve mathematical equations. This repository focuses on applying deep learning to tackle complex problems like differential equations and other computational models.
+
+# Features
+Step-by-step tutorials for solving ODEs, PDEs, and other equations using AI
+Practical examples with code implementations
+Covers essential AI techniques for equation learning
